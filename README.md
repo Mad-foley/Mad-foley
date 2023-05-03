@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mad-foley
-- 👀 I’m interested in Web Development, Linguistics, Natural Language Processing (NLP), AI/ML and more.
+- 👀 I’m interested in Web Development, Linguistics, and more.
 - 🌱 I’m currently a full-stack developer. I am always building on my web skills.
 
 <!---
