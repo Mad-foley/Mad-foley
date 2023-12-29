@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mad-foley
-- 👀 I’m interested in Web Development, Linguistics, and more.
-- 🌱 I’m currently a full-stack developer. I am always building on my web skills.
+- 👀 I’m interested in Software Engineering, Linguistics, and more.
+- 🌱 I’m currently trying to become a developer. I am always building my skills on and off of github.
 
 <!---
 Mad-foley/Mad-foley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
